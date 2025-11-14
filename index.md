@@ -2,6 +2,10 @@
 
 
 
+# <h2> ADDING AN IMAGE
+
+
+ 
 
 
 
@@ -13,9 +17,7 @@
 
 
 
-
-
-
+![image of a cat](https://github.com/user-attachments/assets/391f8f06-286d-45f4-9be0-d4109191f765)
 
 
 
@@ -46,3 +48,4 @@
 
 
 Just trying out markdown with this file
+
